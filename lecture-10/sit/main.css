@@ -1,0 +1,33 @@
+@charset "utf-8";
+body {
+	background-color: #903;
+	margin:0px;
+	
+}
+a {
+	color: #003;
+	text-decoration: none;
+	font-size: 10px;
+}
+
+h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+	font-style: italic;
+	color: #000;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #600;
+}
+.back {
+	background-image: url(images/3.jpg);
+	background-repeat: repeat-x;
+}
+.p {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 10px;
+	font-style: normal;
+}
